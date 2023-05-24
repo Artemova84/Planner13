@@ -1,4 +1,4 @@
-package ru.netology.javaqa. planner13;
+package ru.netology.javaqa.planner13;
 
 import java.util.Objects;
 

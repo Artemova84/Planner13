@@ -1,4 +1,5 @@
-package ru.netology.javaqa. planner13;
+package ru.netology.javaqa.planner13;
+
 public class Meeting extends Task {
     protected String topic;
     protected String project;

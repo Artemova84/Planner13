@@ -1,4 +1,5 @@
-package ru.netology.javaqa. planner13;
+package ru.netology.javaqa.planner13;
+
 public class Epic extends Task {
     String[] subtasks;
 

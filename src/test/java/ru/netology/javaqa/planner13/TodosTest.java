@@ -1,4 +1,4 @@
-package ru.netology.javaqa. planner13;
+package ru.netology.javaqa.planner13;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
